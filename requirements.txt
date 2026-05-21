@@ -4,10 +4,6 @@ scipy
 scikit-learn
 matplotlib
 seaborn
-streamlit==1.32.0
 plotly
 statsmodels
-fastapi
-uvicorn
-pydantic
 faker
