@@ -1,0 +1,4 @@
+group,total_interactions,clicks,purchases,ctr,conversion_rate,avg_order_value,revenue_per_session,total_revenue
+control,68625,12455,1841,0.1815,0.0268,157.31,4.2201,289603.43
+variant_a,67616,11009,1554,0.1628,0.023,464.83,10.6831,722349.89
+variant_b,63759,9390,1124,0.1473,0.0176,468.49,8.2589,526578.78
