@@ -10,6 +10,7 @@ A full-stack experimentation platform built on a simulated fashion + electronics
 
 **The core finding:** Naive A/B testing concluded *"kill both variants, control wins"* with p=0.000000. Difference-in-Differences and Synthetic Control revealed the opposite — Variant A was the true winner with a +1.37pp causal lift in conversion rate, representing an estimated **$15,657 in missed revenue**.
 
+link: https://causal-marketplace.streamlit.app/
 ---
 
 ## Architecture
