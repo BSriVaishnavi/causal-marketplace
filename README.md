@@ -134,7 +134,7 @@ streamlit run app/dashboard/streamlit_app.py
 
 ---
 
-## Resume Bullets
+## Summary
 
 - Built end-to-end causal inference experimentation platform on a simulated fashion-electronics marketplace with 10K users and 200K interactions
 - Demonstrated that naive A/B testing overestimated control group performance due to seasonal confounding, producing statistically significant but causally incorrect results (p=0.000000)
